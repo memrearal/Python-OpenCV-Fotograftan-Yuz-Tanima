@@ -4,4 +4,4 @@ Kod, Python ve OpenCV kullanarak geliştirilmiştir.
 OpenCV'yi "pip install opencv-python" komutu ile kurup çalıştırın.
 
 Ekran Görüntüsü:
-![Ekran Görüntüsü](ekrangoruntusu.jpg)
+![Ekran Görüntüsü](https://raw.githubusercontent.com/memrearal/Python-OpenCV-Fotograftan-Yuz-Tanima/main/Ekrangoruntusu.jpg)
