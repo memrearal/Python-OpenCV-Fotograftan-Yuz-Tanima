@@ -1,2 +1,7 @@
-# Python-OpenCV-Fotograftan-Yuz-Tanima
-Python &amp; OpenCV Kullanarak, fotoğraftaki yüzleri gösteren sistem.
+# Python & OpenCV Kullanarak Fotoğraftan Yüz Tanıma Uygulaması.
+
+Kod, Python ve OpenCV kullanarak geliştirilmiştir.
+OpenCV'yi "pip install opencv-python" komutu ile kurup çalıştırın.
+
+Ekran Görüntüsü:
+![Ekran Görüntüsü](ekrangoruntusu.png)
